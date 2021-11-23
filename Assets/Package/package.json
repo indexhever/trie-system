@@ -1,0 +1,11 @@
+{
+  "name": "com.arregames.triesystem",
+  "version": "0.0.1",
+  "displayName": "[ArreGames] Trie System",
+  "unity": "2018.4",
+  "licensesUrl": "https://github.com/indexhever/trie-system/blob/main/LICENSE",
+  "author": {
+    "name": "Arre Games",
+    "url": "https://github.com/indexhever"
+  }
+}
